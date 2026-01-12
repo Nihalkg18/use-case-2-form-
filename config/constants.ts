@@ -11,8 +11,8 @@ export const APP_URLS = {
 
 // Test data - Update these with your actual credentials
 export const TEST_CREDENTIALS = {
-  USERNAME: process.env.AA_USERNAME || 'csai22032@glbitm.ac.in',
-  PASSWORD: process.env.AA_PASSWORD || 'Bhumi1542@shu',
+  USERNAME: process.env.AA_USERNAME || 'nihalkg18@gmail.com',
+  PASSWORD: process.env.AA_PASSWORD || 'Nihal1542@gup',
 } as const;
 
 // File paths - Supports local and shared/network folders
